@@ -15,13 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [kenilakbari.aimersinfotech.com](kenilakbari.aimersinfotech.com)
 
-- 💬 Ask me about **Web Technology**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **kenilakbari54@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q--1ha9HyioBA1ULuyPDCQ7poLXFvmZW/view](https://drive.google.com/file/d/1q--1ha9HyioBA1ULuyPDCQ7poLXFvmZW/view)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
