@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **MERN Technology**
 
-- 👨‍💻 All of my projects are available at [kenilakbari.aimersinfotech.com](kenilakbari.aimersinfotech.com)
+- 👨‍💻 All of my projects are available at [kenilakbari.in](kenilakbari.in)
 
-- 💬 Ask me about **Web Technology**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kenilakbari54@gmail.com**
 
